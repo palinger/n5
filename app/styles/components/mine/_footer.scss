@@ -1,0 +1,25 @@
+footer {
+	color: silver;
+	min-height: 100px;
+	background-color: black;
+	margin-top: 25px;
+
+	.g--third {
+		padding: 10px;
+	}
+  .main {
+  	background-image:none
+  }
+  ul, li {
+  	margin: 0;
+  	padding: 0;
+  	list-style-type: none;
+  	font-size: small;
+  	&:before {
+  		content:"";
+  	};
+  	a {
+  		color: silver;
+  	}
+  }
+}

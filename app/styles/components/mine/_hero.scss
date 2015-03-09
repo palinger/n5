@@ -1,0 +1,31 @@
+.hero {
+  min-height: 320px;
+  padding: 50px  20px 20px;
+  background-color: #000a4a;/*#050490#297ea9*/
+  background-image: url("../images/grid1.png");
+  box-shadow: -25px -50px 150px rgba(0, 0, 0, 0.9) inset;  
+  /*
+  background-image: url("../images/bg-8b.jpg");
+  background-position: center bottom;
+  background-size: cover;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.9);
+
+  */
+  text-align: center;
+  color: #fff;
+  i {
+  	font-size: 50px;
+  	border: 1px solid white;
+  	padding: 25px;
+  	border-radius: 50%;
+  	background-color: #89c4e2;
+  }  
+  .main {
+  	background-image:none;
+  	/*
+  	background-image: url("../images/google-nexus-55.png");
+    background-position: right 0;
+    background-repeat: repeat-y;
+    */
+	}	
+}
